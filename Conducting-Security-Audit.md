@@ -17,4 +17,10 @@ Here are some important facts about Botium Toys:
 - While legacy systems are monitored and maintained, there is no regular schedule in place for these tasks and intervention methods are unclear.
 - The store’s physical location, which includes Botium Toys’ main offices, store front, and warehouse of products, has sufficient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.
  
-Scope of Audit
+## Scope of Audit
+To assess all assets alongside internal processes and procedures related to the implementation of controls and compliance best practices.
+
+## Goals of Audit
+- Provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
+- Use a controls and compliance checklist to determine which controls and compliance best practices need to be implemented.
+- Adhere to National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), 
