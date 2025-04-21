@@ -5,12 +5,13 @@
 2. Scenario
 3. Scope of Audit
 4. Goals of Audit
-5. Controls Assessments Checklist
-6. Payment Card Industry Data Security Standard (PCI DSS) Checklist
-7. General Data Protection Regulation (GDPR) Checklist
-8. System and Organizations Controls (SOC type 1, SOC type 2)  Checklist
-9. Recommendations -  Stakeholder Memorandum
-10. Conclusion
+5. Assessments
+   -  5a. Controls Assessment
+   -  5b. Payment Card Industry Data Security Standard (PCI DSS) Checklist
+   -  5c. General Data Protection Regulation (GDPR) Checklist
+   -  5d. System and Organizations Controls (SOC type 1, SOC type 2)  Checklist
+6. Recommendations -  Stakeholder Memorandum
+7. Conclusion
 
 <br>
 
@@ -54,7 +55,8 @@ To assess all assets alongside internal processes and procedures related to the 
 
 
 <br><br>
-## 5. Controls Assessment
+## 5. Assessments
+In this section, a thorough assessment of various controls and practices will be performed.
 
 ### Current Assets:
 * On-premises equipment for in-office business needs
@@ -102,7 +104,7 @@ To assess all assets alongside internal processes and procedures related to the 
 |Fire detection and prevention|Detective/Preventative|Detect fire in physical location and prevent damage to physical assets; Botium Toys has functioning fire detection and prevention systems| |
 
 <br><br>
-
+### 5a. Controls Assessment 
 |Control|Yes/No|Explanation|
 |-------|------|-----------|
 |Least Privilege|No|All Botium Toys employees have access to internally stored data and may be able to access cardholder data and customers’ PII/SPII; Access controls pertaining to least privilege and separation of duties have not been implemented|
@@ -122,7 +124,7 @@ To assess all assets alongside internal processes and procedures related to the 
 
 
 <br><br>
-## 6. Payment Card Industry Data Security Standard (PCI DSS) Checklist
+### 5b. Payment Card Industry Data Security Standard (PCI DSS) Checklist
 
 |Best Practice|Yes/No|Explanation|
 |-------------|------|-----------|
@@ -134,7 +136,7 @@ To assess all assets alongside internal processes and procedures related to the 
 
 
 <br><br>
-## 7. General Data Protection Regulation (GDPR) Checklist
+### 5c. General Data Protection Regulation (GDPR) Checklist
 
 |Best Practice|Yes/No|Explanation|
 |-------------|------|-----------|
@@ -145,7 +147,7 @@ To assess all assets alongside internal processes and procedures related to the 
 
 
 <br><br>
-## 8. System and Organizations Controls (SOC type 1, SOC type 2)  Checklist
+### 5d. System and Organizations Controls (SOC type 1, SOC type 2)  Checklist
 |Best Practice|Yes/No|Explanation|
 |-------------|------|-----------|
 |User access policies are established|No|Access controls pertaining to least privilege and separation of duties have not been implemented|
@@ -154,10 +156,53 @@ To assess all assets alongside internal processes and procedures related to the 
 |Data is available to individuals authorized to access it|No|Sensitive data accessible to ALL employees|
 
 <br><br>
-## 9. Recommendations
+## 6. Recommendations - Stakeholder Memorandum
 
+**To**: IT Manager
+<br>
+**From**: Gabby L. 
+<br>
+**Date**: 04/20/2025
+<br>
+**Subject**: Internal IT Audit
+<br><br>
+Dear IT Manager,
+Please see the information below for a summary of Botium Toys' internal audit.<br><br>
+**Scope**<br>
+To assess all assets alongside internal processes and procedures related to the implementation of controls and compliance best practices.
+<br><br>
+**Goals**
+<br>
+- Improve Botium Toys' security posture by implementing NIST CSF.
+- List assets currently managed by the IT department
+- Provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
+- Use a controls and compliance checklist to determine which controls and compliance best practices need to be implemented.
 
+<br>
 
+**Summary of Findings & Recommendations**
+<br>
 
+*Recommendation #1*:<br>
+Botium Toys needs to implement Least Privilege, Access Control, and Separation of Duties controls. Please review the individual duties of all employees and only grant as much access as is necessary for successful completion of their daily tasks. Botium Toys needs to define who can access specific resources, and what actions they can perform on those resources.
+<br>
 
+*Recommendation #2*:<br>
+In the same vein as the first recommendation, Botium Toys needs to implement Account Management policies that clearly outline rules and procedures for creating, managing, and removing user accounts, as well as controlling access to resources within an organization.<br>
 
+*Recommendation #3*:<br>
+Although a password policy exists, please put into place requirements for more complex passwords that meet the policy's minimum requirement. Also, please implement a centralized password management system to securely store, manage, reset, and generate passwords. <br>
+
+*Recommendation #4*:<br>
+Please implement comprehensive disaster recovery plans and ensure all data is regularly backed up to in order to business continuity in the event of a disruption.<br>
+
+*Recommendation #5*:<br>
+While some technical controls are in place (Firewall, Antivirus, etc.), Botium Toys will have to implement stronger methods of protection. Please implement an Intrusion Detection System, and encrypt customer data, and create a schedule for the regular monitoring and maintenance of legacy systems.<br>
+
+*Recommendation #6*:<br>
+While some physical controls are in place to deter theft/damage to Botium Toys products and property, stronger methods of protection will have to be implemented. Please include Locking cabinets, signage of alarm service provider, and enhance lighting of the offices, store front and warehouse.
+
+<br><br>
+
+## 7. Conclusion<br>
+While Botium Toys has some security measures in place (eg: Passwords, Firewall, Antivirus, CCTV, Physical locks, etc.), it's overall security posture if weak and lacking in a lot of area. Given its growing online presence and popularity, please implement the above mentioned recommendations in order to avoid theft, compromise of customer data, loss of business, and fines.
