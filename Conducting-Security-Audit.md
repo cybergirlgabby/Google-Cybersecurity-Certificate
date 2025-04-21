@@ -1,5 +1,9 @@
 # Conducting A Security Audit
 
+In this activity, I will be conducting a security audit for a fictional company, Botium Toys, a manufacturer and retailer of children's toys. 
+
+<br>
+
 ## TABLE OF CONTENTS
 1. Introduction
 2. Scenario
@@ -17,7 +21,6 @@
 
 ## 1. Introduction
 
-In this activity, I will conduct a security audit for a fictional company, Botium Toys, a manufacturer and retailer of children's toys. 
 With Botium’s expanding online presence, the IT department faces increasing pressure to safeguard the company's digital assets. To address these concerns, a comprehensive IT security audit has been commissioned.
 This report will feature important aspects of the audit, including the scope and goals of the audit, and the results of the assessment.
 
