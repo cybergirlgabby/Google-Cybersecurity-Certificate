@@ -10,6 +10,7 @@
 7. General Data Protection Regulation (GDPR) Checklist
 8. System and Organizations Controls (SOC type 1, SOC type 2)  Checklist
 9. Recommendations
+10. Conclusion
 
 <br>
 
