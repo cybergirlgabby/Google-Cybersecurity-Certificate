@@ -9,7 +9,7 @@
 6. Payment Card Industry Data Security Standard (PCI DSS) Checklist
 7. General Data Protection Regulation (GDPR) Checklist
 8. System and Organizations Controls (SOC type 1, SOC type 2)  Checklist
-9. Recommendations
+9. Recommendations -  Stakeholder Memorandum
 10. Conclusion
 
 <br>
